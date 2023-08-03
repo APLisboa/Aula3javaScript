@@ -1,5 +1,5 @@
-let numeroAStr = prompt('Digite o número A:');
-let numeroBStr = prompt('Digite o número B:');
+let numeroAStr = prompt('Digite o número A');
+let numeroBStr = prompt('Digite o número B');
 
 let numeroA = Number(numeroAStr);
 let numeroB = Number(numeroBStr);
